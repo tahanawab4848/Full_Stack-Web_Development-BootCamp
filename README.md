@@ -1,6 +1,6 @@
 # 🚀 Full Stack Web Development Bootcamp (2024)
 
-Welcome to my **Full Stack Web Development** portfolio! This repository contains over **100 individual projects and coding exercises** demonstrating my progression from front-end basics to advanced Web3 Decentralized Applications (DApps).
+Welcome to my **Full Stack Web Development** portfolio! This repository contains over **100 individual projects and coding exercises** demonstrating my progression from front-end basics to advanced Web3 Decentralized Applications (DApps). I took the Web Development BootCamp and solved the Coding Exercises.
 
 ## 📚 Curriculum Highlights
 
